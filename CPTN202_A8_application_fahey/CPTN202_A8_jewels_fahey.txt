@@ -1,0 +1,36 @@
+Player: paul
+Number of Jewels: 3
+Date Found: Fri Jun 28 00:00:00 EDT 1991
+
+Player: peter
+Number of Jewels: 3
+Date Found: Fri Jun 28 00:00:00 EDT 1991
+
+Player: geoff
+Number of Jewels: 3
+Date Found: Fri Jun 28 00:00:00 EDT 1991
+
+Player: mike
+Number of Diamonds: 3
+Date Found: Fri Jun 28 00:00:00 EDT 1991
+
+Player: james
+Number of Diamonds: 3
+Date Found: Fri Jun 28 00:00:00 EDT 1991
+
+Player: tom
+Number of Diamonds: 2
+Date Found: Fri Jun 28 00:00:00 EDT 1991
+
+Player: john
+Number of Rubys: 2
+Date Found: Fri Jun 28 00:00:00 EDT 1991
+
+Player: chris
+Number of Rubys: 2
+Date Found: Fri Jun 28 00:00:00 EDT 1991
+
+Player: tim
+Number of Rubys: 2
+Date Found: Fri Jun 28 00:00:00 EDT 1991
+
